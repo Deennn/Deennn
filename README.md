@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Deennn
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning backend development @Zuri 
-- 💞️ I’m looking to collaborate on django project and machine learning
+- 👋 Hi, I’m @Deennn;
+- 👀 I’m interested in cooking but not in the kitchen;
+- 🌱 I’m currently working on become a software engineer;
+- 💞️ I’m looking to collaborate on java and python project using (spring or springboot) and (django);
 - 📫 How to reach me abideenlawal70@gmail.com
 
 <!---
