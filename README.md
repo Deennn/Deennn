@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Lawal Abideen, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/> <b>Abuja, Nigeria</b>.</p>
+  I'm Deenn, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/> <b>Abuja, Nigeria</b>.</p>
   👀 I’m interested in cooking but not in the kitchen<br>
   🌱 I’m currently working on become a WORLD CLASS software engineer<br>
   💞️ I’m looking to collaborate on java and python project using (spring or springboot) and (django)<br>
