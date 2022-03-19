@@ -66,5 +66,5 @@ You can click the Preview link to take a look at your changes.
 ![Deenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deennn&show_icons=true&hide_border=true&count_private=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ibrahim-isah&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deennn&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
