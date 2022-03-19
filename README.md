@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deennn&count_private=true)
 </span>
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ibrahim-isah&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
