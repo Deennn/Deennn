@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 <p aligh="left">
   <p>Hey there, welcome!</br>
   I'm Lawal Abideen Abayomi, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/> <b>Abuja, Nigeria</b>.</p>
-  👀 I’m interested in cooking but not in the kitchen;
-  🌱 I’m currently working on become a WORLD CLASS software engineer;
+  👀 I’m interested in cooking but not in the kitchen<br>
+  🌱 I’m currently working on become a WORLD CLASS software engineer<br>
   💞️ I’m looking to collaborate on java and python project using (spring or springboot) and (django);
   💡 &nbsp;I like to explore new trends and learn new technologies.\
    📫 How to reach me abideenlawal70@gmail.com
