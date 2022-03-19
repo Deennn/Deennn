@@ -15,10 +15,11 @@ You can click the Preview link to take a look at your changes.
   🌱 I’m currently working on become a WORLD CLASS software engineer<br>
   💞️ I’m looking to collaborate on java and python project using (spring or springboot) and (django)<br>
   💡 &nbsp;I like to explore new trends and learn new technologies<br>
-   📫 How to reach me abideenlawal70@gmail.com <br>
+ 
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
   🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... 👀.\
-  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.<br>
+  📫 How to reach me abideenlawal70@gmail.com <br>
 </p>
 <br>
 
