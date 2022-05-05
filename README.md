@@ -7,21 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
-<<p aligh="left">
-  <p>Hey there, welcome!</br>
-  I'm Deenn, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/> <b>Abuja, Nigeria</b>.</p>
-  👀 I’m interested in cooking but not in the kitchen<br>
-  🌱 I’m currently working on become a WORLD CLASS software engineer<br>
-  💞️ I’m looking to collaborate on java and python project using (spring or springboot) and (django)<br>
-  💡 I like to explore new trends and learn new technologies<br>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 
-< 🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
-  🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... 👀.\
-  💬 Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.<br>
-  📫 How to reach me abideenlawal70@gmail.com <br>
-</p>
-<br>
 
 
 
@@ -70,18 +57,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
   
-<h2>🌎 &nbsp;Where to find me</h2>
+<h2>🌎 &nbsp;Where to find me</h2><br>
+
 <p>
  <a href="https://codepen.io/deennn" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-<  <a href="https://www.linkedin.com/in/lawal-abideen-9119111a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lawal-abideen-9119111a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://hashnode.com/@Deenn" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
  <a href="https://twitter.com/_Deenn__" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="mailto:abideenlawal70@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
----
 
 ### 🔥 &nbsp; My Stats :
+<span align="left">
+
+![Deenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deennn&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deennn&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deennn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deennn&layout=compact&theme=vision-friendly-dark)](https://github.com/Deennn/github-readme-stats)
 
 
