@@ -3,25 +3,25 @@
 Deennn/Deennn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Deenn</b>
+<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Deenn</b>
 
 <br>
 
-<!-- <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
-<!-- <p aligh="left">
+<<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
+<<p aligh="left">
   <p>Hey there, welcome!</br>
   I'm Deenn, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/> <b>Abuja, Nigeria</b>.</p>
   👀 I’m interested in cooking but not in the kitchen<br>
   🌱 I’m currently working on become a WORLD CLASS software engineer<br>
   💞️ I’m looking to collaborate on java and python project using (spring or springboot) and (django)<br>
   💡 &nbsp;I like to explore new trends and learn new technologies<br>
-  -->
-<!--   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
+
+< 🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
   🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... 👀.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.<br>
   📫 How to reach me abideenlawal70@gmail.com <br>
 </p>
-<br> -->
+<br>
 
 <!-- <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
 <p>
@@ -50,15 +50,7 @@ You can click the Preview link to take a look at your changes.
   <!-- <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" /> -->
 </p>
 
-<h2>🌎 &nbsp;Where to find me</h2>
-<p>
-<!--   <a href="https://codepen.io/deennn" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a> -->
-<!--   <a href="https://www.linkedin.com/in/lawal-abideen-9119111a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://hashnode.com/@Deenn" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
- <a href="https://twitter.com/_Deenn__" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:abideenlawal70@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-  
-</p>
+
 
 <!-- <h2>📈 &nbsp;Some Github Stats</h2> -->
 <!-- <span align="left"> -->
@@ -69,12 +61,12 @@ You can click the Preview link to take a look at your changes.
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deennn&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span> --> --> -->
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+</p> -->
 <p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
@@ -84,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
@@ -112,4 +104,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
+<h2>🌎 &nbsp;Where to find me</h2>
+<p>
+ <a href="https://codepen.io/deennn" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<  <a href="https://www.linkedin.com/in/lawal-abideen-9119111a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hashnode.com/@Deenn" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+ <a href="https://twitter.com/_Deenn__" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="mailto:abideenlawal70@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
 </p>
