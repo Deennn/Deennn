@@ -54,10 +54,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 <span align="left">
 
-![Deenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deennn&show_icons=true&hide_border=true&bg_color=000000&title_color=00E6FE&icon_color=967311&text_color=FFFFFF)
+![Deenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deennn&show_icons=true&hide_border=true&bg_color=000000&title_color=967311&icon_color=967311&text_color=FFFFFF)
 </span>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deennn&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deennn&layout=compact&theme=vision-friendly-dark)](https://github.com/Deennn/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deennn&layout=compact&theme=vision-friendly-dark)](https://github.com/Deennn/github-readme-stats) -->
 
 
