@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### :boy_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgres/postgres-original.svg" title="Postgres"  alt="postgres" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/postgres/postgres-original.svg" title="Postgres"  alt="postgres" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
@@ -52,10 +52,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="mailto:abideenlawal70@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### 🔥 &nbsp; My Stats :
-<span align="left">
+<!-- <span align="left"> -->
 
 ![Deenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deennn&show_icons=true&hide_border=true&bg_color=000000&title_color=967311&icon_color=967311&text_color=FFFFFF)
-</span>
+<!-- </span> -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deennn&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deennn&layout=compact&theme=vision-friendly-dark)](https://github.com/Deennn/github-readme-stats) -->
