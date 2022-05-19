@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 -  💬 Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/lawal-abideen-9119111a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
----
+-----
 
 ### 🛠 &nbsp;Languages and Tools :
 
